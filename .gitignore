@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+karan_test/
+myenv/
+
 # C extensions
 *.so
 
